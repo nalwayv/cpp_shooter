@@ -1,0 +1,6 @@
+[player]
+position_x = 250.0
+position_y = 250.0
+speed = 20.0
+max_speed = 400.0
+texture_id = "player"
